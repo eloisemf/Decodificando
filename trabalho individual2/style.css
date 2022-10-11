@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+}
+body {
+  background-image: url(img/esfinge.png);
+  height: 760px;
+  background-size: 480px;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: bottom right;
+  text-align: center;
+  
+}
+header {
+  background-image: url(img/topo.png);
+  height: 50px;
+}
+
+
+main {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 20px;
+  color: black;
+  background: #e37a24c4;
+  border-radius: 2%;
+  width: 500px;
+  height: 650px;
+  text-align: center;
+  margin: auto;
+}
+
+select {
+  margin-top: 20px;
+  background-color: #823f16;
+  border: none;
+  height: 25px;
+  border-radius: 5px;
+}
+
+h1 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size:40px ;
+  font-family: 'Dalek Pinpoint', sans-serif;
+  color: #fc8420;
+}
+
+textarea {
+  height: 100px;
+  width: 350px;
+  margin-top: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+button{
+    width: 125px;
+    height: 30px;
+    border-radius: 64px;
+    border-style: none;
+    background-color: #823f16;
+
+}
+
+.passo{
+  display: none;
+}
+
+footer{
+  margin-top: 50px;
+  
+ background-color:  #e37a2485;
+  height: 15px;
+}
