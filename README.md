@@ -1,2 +1,5 @@
-# Projeto2
-Decodificador usando Cifra de César e base64
+# Decodificando 
+Projeto do modulo 2 do Programadores Cariocas.
+Craição de um decodificador usando cifra de césar e base64.
+
+Decifra-me ou... 
